@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-scroll-behavior",
+  "version": "1.0.0",
+  "description": "Tailwind plugin to create scroll behavior classes",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind-css",
+    "tailwindcss-plugin",
+    "scroll-behavior",
+    "smooth-scrolling"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/lukewarlow/tailwind-scroll-behavior",
+  "author": "Luke Warlow",
+  "license": "MIT"
+}
