@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/tailwind-scroll-behavior.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-scroll-behavior)
 
-This plugin generates [scroll-behavior](https://drafts.csswg.org/cssom-view/#smooth-scrolling) classes.
+This plugin generates [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) classes.
 
 A `scroll-smooth` and `scroll-auto` class will be created.
 
