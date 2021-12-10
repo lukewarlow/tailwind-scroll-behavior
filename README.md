@@ -4,6 +4,8 @@
 
 This plugin generates [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) classes.
 
+Note: As of TailwindCSS v3 these utilities are included by default.
+
 A `scroll-smooth` and `scroll-auto` class will be created.
 
 It is recommended that you use `scroll-smooth` in combination with Tailwind's `motion-safe` variant.
